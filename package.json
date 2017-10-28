@@ -1,0 +1,19 @@
+{
+  "name": "blogapi",
+  "version": "1.0.0",
+  "main": "models.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.12.4",
+    "morgan": "^1.7.0",
+    "uuid": "^3.1.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
